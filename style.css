@@ -7,3 +7,5 @@
 .hero-visual>img{object-fit:contain;object-position:center;background:#efe4d0}
 
 .hero-visual .image-label{left:8px;bottom:10px}
+
+.story-photo img{object-position:center 65%}
